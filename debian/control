@@ -1,0 +1,13 @@
+Source: grub2-themes-grombyangOS
+Section: admin
+Priority: extra
+Maintainer: etcsession <etcsession@gros-team.org>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.5
+Homepage: https://grombyang.or.id/
+
+Package: grub2-themes-grombyangOS
+Architecture: all
+Depends: ${misc:Depends}, grub-common (>= 2)
+Description: GRand Unified Bootloader, version 2 (grombyangOS theme)
+ This is the grombyangOS theme for GRUB's graphical menu.

@@ -1,0 +1,15 @@
+background.png /boot/grub/themes/grombyangOS
+highlight_c.png /boot/grub/themes/grombyangOS
+highlight_w.png /boot/grub/themes/grombyangOS
+menu_frame_c.png /boot/grub/themes/grombyangOS
+menu_frame_e.png /boot/grub/themes/grombyangOS
+menu_frame_ne.png /boot/grub/themes/grombyangOS
+menu_frame_n.png /boot/grub/themes/grombyangOS
+menu_frame_nw.png /boot/grub/themes/grombyangOS
+menu_frame_se.png /boot/grub/themes/grombyangOS
+menu_frame_s.png /boot/grub/themes/grombyangOS
+menu_frame_sw.png /boot/grub/themes/grombyangOS
+menu_frame_w.png /boot/grub/themes/grombyangOS
+progress_frame_c.png /boot/grub/themes/grombyangOS
+progress_highlight_c.png /boot/grub/themes/grombyangOS
+theme.txt /boot/grub/themes/grombyangOS
