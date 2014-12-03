@@ -27,4 +27,5 @@ Modify by etcsession <etcsession@gros-team.org>
 +fi
 ```
 
-
+**Screenshot** : Grub2 Themes
+![colorNana Screenshot](https://raw.githubusercontent.com/grOS-TEAM/grOS-Grub2-Themes/master/monad_config/Screens/colorNana.png)
